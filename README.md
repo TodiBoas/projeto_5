@@ -41,3 +41,5 @@ pip install - requirements.txt
 streamlit run app.py
 '''
 Após executar o comando, uma aba será aberta no seu navegador com o aplicativo.
+
+https://projeto-5-nwuq.onrender.com/
